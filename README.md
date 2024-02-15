@@ -53,11 +53,11 @@ The relational database will be built using MySQL and the help of a third-party 
 
 * Need information about:
 
-** what ingredients go into each pizza
+  * what ingredients go into each pizza
 
-** their quantity based on the size of the pizza
+  * their quantity based on the size of the pizza
 
-** the existing stock level 
+  * the existing stock level 
 
 #### Staff data requirements
 
